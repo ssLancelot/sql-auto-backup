@@ -1,0 +1,10 @@
+E:\Projects\SQLAutoBackup\SQLAutoBackup\SQLAutoBackup\obj\Debug\SQLAutoBackup.csprojAssemblyReference.cache
+E:\Projects\SQLAutoBackup\SQLAutoBackup\SQLAutoBackup\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Projects\SQLAutoBackup\SQLAutoBackup\SQLAutoBackup\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Projects\SQLAutoBackup\SQLAutoBackup\SQLAutoBackup\obj\Debug\SQLAutoBackup.csproj.GenerateResource.cache
+E:\Projects\SQLAutoBackup\SQLAutoBackup\SQLAutoBackup\obj\Debug\SQLAutoBackup.csproj.CoreCompileInputs.cache
+E:\Projects\SQLAutoBackup\SQLAutoBackup\SQLAutoBackup\bin\Debug\WindowsFormsApp1.exe.config
+E:\Projects\SQLAutoBackup\SQLAutoBackup\SQLAutoBackup\bin\Debug\WindowsFormsApp1.exe
+E:\Projects\SQLAutoBackup\SQLAutoBackup\SQLAutoBackup\bin\Debug\WindowsFormsApp1.pdb
+E:\Projects\SQLAutoBackup\SQLAutoBackup\SQLAutoBackup\obj\Debug\WindowsFormsApp1.exe
+E:\Projects\SQLAutoBackup\SQLAutoBackup\SQLAutoBackup\obj\Debug\WindowsFormsApp1.pdb
